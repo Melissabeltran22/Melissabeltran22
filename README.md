@@ -4,9 +4,8 @@
 
 ## Sobre mí
 
-- 💻 Desarrolladora entusiasta y curioso.
+- 💻 Estudiante de Desarrollo de Software.
 - 🌱 Siempre estoy aprendiendo y mejorando mis habilidades.
-- 🎨 Me gustaría aprender para diseñar interfaces atractivas y amigables.
 - 🚀 Convencida de que la educación es la mejor herramienta para cambiar el mundo.
 - 📚 Amante del conocimiento y la innovación.
 
