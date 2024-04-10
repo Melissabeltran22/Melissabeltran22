@@ -11,7 +11,7 @@
   
   <section>
     <h2>¡Hola, hola!</h2>
-    <p>Me llamo <strong>Melissa Beltrán</strong>, y mi vida ha sido un viaje emocionante en búsqueda de mi verdadera pasión. Comencé como socióloga, inmersa en el estudio de las complejidades humanas y sociales, pero siempre sentí que faltaba algo, una chispa que realmente encendiera mi alma.</p>
+    <p>Soy <strong>Melissa Beltrán</strong>, y mi vida ha sido un viaje emocionante en búsqueda de mi verdadera pasión. Comencé como socióloga, inmersa en el estudio de las complejidades humanas y sociales, pero siempre sentí que faltaba algo, una chispa que realmente encendiera mi alma.</p>
     <p>Fue entonces cuando decidí aventurarme en el mundo del desarrollo de software. ¡Y qué viaje ha sido! Desde el primer momento en que toqué el teclado, supe que había encontrado lo que tanto anhelaba. La sensación de crear algo desde cero, de dar vida a ideas a través de líneas de código, simplemente me fascina.</p>
     <p>Siempre estoy en la búsqueda de nuevas aventuras tecnológicas, ansiosa por sumergirme en proyectos desafiantes que pongan a prueba mi creatividad y me permitan crecer como profesional. Creo firmemente en que no hay límite de edad para perseguir nuestros sueños y reinventarnos. Cada día es una oportunidad para aprender, crecer y seguir explorando este vasto universo digital.</p>
   </section>
