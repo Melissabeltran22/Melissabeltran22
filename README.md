@@ -38,7 +38,7 @@
   </section>
 
   <section>
-    <p>¡Únete a mí en este emocionante viaje por el universo tecnológico, donde cada línea de código es una nueva oportunidad de crecimiento, el límite es el cielo! ✨🚀💻</p>
+    <p>¡El límite es el cielo! ✨🚀💻</p>
   </section>
 </body>
 </html>
