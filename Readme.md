@@ -1,44 +1,184 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-  <header>
-    <h1>¡Bienvenido a mi perfil de GitHub! 👋</h1>
-  </header>
-  
-  <section>
-    <h2>¡Hola, hola!</h2>
-    <p>Soy <strong>Melissa Beltrán</strong>, y mi vida ha sido un viaje emocionante en búsqueda de mi verdadera pasión. Comencé como socióloga, inmersa en el estudio de las complejidades humanas y sociales, pero siempre sentí que faltaba algo, una chispa que realmente encendiera mi alma.</p>
-    <p>Fue entonces cuando decidí aventurarme en el mundo del desarrollo de software. ¡Y qué viaje ha sido! Desde el primer momento en que toqué el teclado, supe que había encontrado lo que tanto anhelaba. La sensación de crear algo desde cero, de dar vida a ideas a través de líneas de código, simplemente me fascina.</p>
-    <p>Siempre estoy en la búsqueda de nuevas aventuras tecnológicas, ansiosa por sumergirme en proyectos desafiantes que pongan a prueba mi creatividad y me permitan crecer como profesional. Creo firmemente en que no hay límite de edad para perseguir nuestros sueños y reinventarnos. Cada día es una oportunidad para aprender, crecer y seguir explorando este vasto universo digital.</p>
-  </section>
+<div align="center">
+  <h1>¡Hola! Soy Melissa Beltrán 👋</h1>
+</div>
+<div align="center">
+<h4>Software Developer | Data Engineer </h4>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Microsoft-Azure-7B68EE?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/SQL-800080?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Big%20Data-Analytics-9370DB?style=for-the-badge&logo=databricks&logoColor=white" alt="Big Data & Analytics" />
+  <img src="https://img.shields.io/badge/Power%20BI-8A2BE2?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Databricks-9932CC?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+</div>
+<br>
 
-  <section>
-    <h2>Sobre mí ✨ 💻</h2>
-    <ul>
-      <li>Aventurera en el mundo del código.</li>
-      <li>Apasionada del aprendizaje constante y la evolución.</li>
-      <li>Firme creyente en que nunca es tarde para empezar de nuevo.</li>
-      <li>Sedienta de conocimiento y adicta a la innovación.</li>
-      <li>Creo en el poder transformador de la tecnología para impulsar un cambio positivo en el mundo.</li>
-    </ul>
-  </section>
+## 👩‍💻 Acerca de mí
 
-  <section>
-    <h2>Frases Inspiradoras de Mujeres en la Tecnología 💪👩‍💻</h2>
-    <ul>
-      <li>"Pienso que una heroína es cualquier persona realmente valiente, y valentía no carece de miedo.” - <em>Sherly Sandberg</em></li>
-      <li>"La diversidad no es solo una cuestión de igualdad, sino una cuestión de supervivencia." - <em>Angela Ahrendts</em></li>
-      <li>“Creo que las mujeres en tecnología están aprehendiendo el mundo en sus términos, y creando su propio lugar en el mundo.” - <em>Padmasree Warrior</em></li>
-      <li>“Es realmente importante que las jóvenes encuentren su espacio en tecnología, pero tenemos que hacerlo de manera inclusiva.” - <em>Reshma Saujani</em></li>
-    </ul>
-  </section>
+💻 &nbsp; Desarrolladora de Software con enfoque en Ingeniería de Datos  
+🎓 &nbsp; Formada como Desarrolladora de Software en [CESDE](https://www.cesde.edu.co/) (2023 - 2025)  
+📚 &nbsp; Cursando especialización en Big Data y Analítica de Datos en UdeCataluña (feb. 2025 - ene. 2026)  
+📊 &nbsp; Convierto datos brutos en insights accionables a través de pipelines de datos eficientes  
+🔍 &nbsp; Impulsada por la curiosidad y el aprendizaje contínuo  
+☕ &nbsp; Amante del café, la naturaleza, la música y escuchar el canto de las aves
 
-  <section>
-    <p>¡El límite es el cielo! ✨🚀💻</p>
-  </section>
-</body>
-</html>
+## 🚀 Habilidades Destacadas
+
+### 💻 Habilidades Técnicas
+
+- 🧹 **Limpieza y transformación de datos** - Procesamiento y preparación de datos para análisis efectivo
+- 📊 **Modelado semántico en Power BI** - Creación de modelos de datos relacionales optimizados
+- 🔍 **SQL para soluciones analíticas** - Desarrollo y optimización de consultas para extracción de insights
+- 🐍 **Python** - Pandas, NumPy y bibliotecas de visualización
+- 🌐 **Web Scraping con Python** - Extracción automatizada de datos de sitios web
+- ⚙️ **Automatización con Power Automate** - Flujos de trabajo y optimizacion de procesos
+- 🔄 **Diseño e implementación de ETL/ELT** - Pipelines de datos eficientes
+- 🏭 **Azure Data Factory** - Creación y gestión de pipelines de datos en la nube
+
+### 🌟 Habilidades Blandas
+
+- 📚 **Aprendizaje contínuo** - Disfruto adquiriendo nuevos conocimientos y manteniéndome actualizada
+- 🤝 **Trabajo en equipo** - Colaboración efectiva en entornos multidisciplinarios
+- 🔄 **Adaptabilidad** - Rápida asimilación de nuevas tecnologías y metodologías
+- 💬 **Comunicación efectiva** - Capacidad para explicar conceptos técnicos complejos de forma clara
+- ⏱️ **Gestión del tiempo** - Organización de tareas y cumplimiento de plazos
+- 🧩 **Resolución de problemas** - Enfoque analítico y creativo para superar desafíos
+- 🔎 **Atención al detalle** - Precisión en la implementación y análisis de datos
+- ✨ **Creatividad** - Enfoque creativo para generar soluciones innovadoras
+
+<br>
+
+## 🛠️ Experiencia y Habilidades
+
+<table>
+  <tr>
+    <td>
+      <strong>💻 Lenguajes de programación:</strong><br/>
+      <img src="https://img.shields.io/badge/Python-9370DB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/SQL-8A2BE2?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/Java-7B68EE?style=flat-square&logo=java&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/JavaScript-9932CC?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/React-800080?style=flat-square&logo=react&logoColor=white" alt="React" />
+    </td>
+    <td>
+      <strong>🗄️ Bases de datos:</strong><br/>
+      <img src="https://img.shields.io/badge/SQL%20Server-9370DB?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+      <img src="https://img.shields.io/badge/Azure%20SQL-7B68EE?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>☁️ Cloud:</strong><br/>
+      <img src="https://img.shields.io/badge/Microsoft%20Azure-9932CC?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
+      <img src="https://img.shields.io/badge/Azure%20Data%20Factory-8A2BE2?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure Data Factory" />
+    </td>
+    <td>
+      <strong>📊 Data Engineering:</strong><br/>
+      <img src="https://img.shields.io/badge/Análisis%20de%20datos-7B68EE?style=flat-square&logo=google-analytics&logoColor=white" alt="Análisis de datos" />
+      <img src="https://img.shields.io/badge/Delta%20Lake-9370DB?style=flat-square&logo=databricks&logoColor=white" alt="Delta Lake" />
+      <img src="https://img.shields.io/badge/ETL%2FELT-800080?style=flat-square&logo=apache-airflow&logoColor=white" alt="ETL/ELT" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <strong>🔄 Metodologías y Herramientas:</strong><br/>
+      <img src="https://img.shields.io/badge/Scrum-9932CC?style=flat-square&logo=scrumalliance&logoColor=white" alt="Scrum" />
+      <img src="https://img.shields.io/badge/Jira-8A2BE2?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+      <img src="https://img.shields.io/badge/Azure%20DevOps-7B68EE?style=flat-square&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
+      <img src="https://img.shields.io/badge/Power%20BI-9370DB?style=flat-square&logo=power-bi&logoColor=white" alt="Power BI" />
+      <img src="https://img.shields.io/badge/Databricks-800080?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
+    </td>
+  </tr>
+</table>
+
+## 🎓 Educación y Certificaciones
+
+<details>
+<summary><b>🏫 Educación Formal</b></summary>
+<br>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img align="left" width="40" height="40" src="https://yt3.googleusercontent.com/9cnwlzHOV11HN1DzPjAD8Fub8_xDD6G8UWDgnyGFsxVRwzK76IyffTAYZAJCwdQwM5erz2A4=s900-c-k-c0x00ffffff-no-rj" alt="CESDE Logo" style="margin-right: 10px;">
+  <div>
+    <strong>Desarrollo de Software</strong><br>
+    CESDE<br>
+    <i>2023 - 2025</i>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img align="left" width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ30IfzxuVg4w5G3gy6wUZWdRuaGK6hHF5LQg&s" alt="UdeCataluña Logo" style="margin-right: 10px;">
+  <div>
+    <strong>Especialista en Big Data y Analítica de Datos</strong><br>
+    UdeCataluña<br>
+    <i>feb. 2025 - ene. 2026 (En curso)</i>
+  </div>
+</div>
+</details>
+
+<details>
+<summary><b>🏆 Certificaciones</b></summary>
+<br>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img align="left" width="40" height="40" src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi Logo" style="margin-right: 10px;">
+  <div>
+    <strong>Curso de Fundamentos de Ingeniería de Datos</strong><br>
+    Platzi<br>
+    <i>ene. 2025</i>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img align="left" width="40" height="40" src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi Logo" style="margin-right: 10px;">
+  <div>
+    <strong>Curso de Databricks: Arquitectura Delta Lake</strong><br>
+    Platzi<br>
+    <i>ene. 2025</i>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img align="left" width="40" height="40" src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi Logo" style="margin-right: 10px;">
+  <div>
+    <strong>Curso de Almacenamiento en Azure</strong><br>
+    Platzi<br>
+    <i>abr. 2025</i>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img align="left" width="40" height="40" src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="Platzi Logo" style="margin-right: 10px;">
+  <div>
+    <strong>Data Engineer</strong><br>
+    Platzi<br>
+    <i>mar. 2025</i>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img align="left" width="40" height="40" src="https://tenereteam.s3.us-west-1.amazonaws.com/678a2f2f65a69?v=1739547576" alt="CertiProf Logo" style="margin-right: 10px;">
+  <div>
+    <strong>Prompt Engineering Foundation Learner</strong><br>
+    CertiProf<br>
+    <i>ene. 2025</i>
+  </div>
+</div>
+</details>
+
+## 📫 Conecta conmigo
+
+<div align="center">
+  <a href="https://linkedin.com/in/melissabc" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:beltrancolon23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <i>"Transforming data into value, one line of code at a time"</i>
+</div>
